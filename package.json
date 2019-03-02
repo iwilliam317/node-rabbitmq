@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iwilliam317/node-rabbitmq/issues"
   },
-  "homepage": "https://github.com/iwilliam317/node-rabbitmq#readme"
+  "homepage": "https://github.com/iwilliam317/node-rabbitmq#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
 }
