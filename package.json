@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/iwilliam317/node-rabbitmq#readme",
   "dependencies": {
-    "amqplib": "^0.5.3"
+    "amqplib": "^0.5.3",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
   }
 }
